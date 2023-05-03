@@ -1,0 +1,13 @@
+.main {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 1200px) {
+    .main {
+        margin-top: 10px;
+        flex-direction: column;
+    }
+}
