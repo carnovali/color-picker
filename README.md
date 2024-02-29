@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Informacion
 
--Escribi hasta 9 nombres y elegi el color que identifica a esa persona.
+-Escribis nombres de cosas que representen algo para vos y le asignas un color que pensas que represente eso!!1
 
 ## Demo
 
