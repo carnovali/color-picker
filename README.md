@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Informacion
 
--Escribis nombres de cosas que representen algo para vos y le asignas un color que pensas que represente eso!!1
+-Escribis nombres de cosas que representen algo para vos y le asignas un color que pensas que represente eso!!1 (fue hecho en media hora)
 
 ## Demo
 
